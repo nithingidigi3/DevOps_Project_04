@@ -17,7 +17,7 @@ Step-2: Pre-Requisites:
 
 Step-3: Process Map:
 
-![DevOps_Project_04_ProMap](https://user-images.githubusercontent.com/121715127/213104085-1fef8c9f-544a-45b4-915c-4be2475faf45.png)
+![DevOps_Project_05_ProcessMap](https://user-images.githubusercontent.com/121715127/213105234-cc165023-42e7-424b-97cd-4ec80ecee7b7.png)
 
 Step-4: Implementation
 1. Created windows virtual machine by launching AWS EC2 instance.
