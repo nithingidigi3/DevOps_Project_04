@@ -17,23 +17,23 @@ Step-2: Pre-Requisites:
 
 Step-3: Process Map:
 
-https://github.com/nithingidigi3/DevOps_Project_04/blob/main/DevOps_Project_04_ProMap.png?raw=true
+![alt text](https://github.com/nithingidigi3/DevOps_Project_04/blob/main/DevOps_Project_04_ProMap.png?raw=true)
 
-Step-4: Implem4ntation.png
-•	Created windows virtual machine by launching AWS EC2 instance.
-•	Configuration and integration of VPC, Route table, Security groups, AWS S3 and RDS with EC2 instance.
-•	Installed TortoiseGit on windows machine.
-•	Initiated local Git repository and integrated with GitHub using TortoiseGit.
-•	Updating source code changes to remote repository GitHub from local repository using TortoiseGit.
-•	Installation of Maven and Jenkins tools on windows machine.
-•	Performing build activities using Maven and Jenkins tools.
-•	Automate the build process using Jenkins jobs.
-•	Deploy the application package in Tomcat application server using shell script
-•	Continuous integration of GitHub, Jenkins, Maven using Jenkins job.
-•	Automate the process by triggering Jenkins with source code changes by activating webhooks in GitHub.
-•	Configured AWS Load balancer and Autoscaling Group to make application always available in the web (to avoid server down issues)
-•	 DNS and SSL configuration using Route 53 and Certificate Manager
+Step-4: Implementation
+1. Created windows virtual machine by launching AWS EC2 instance.
+2. Configuration and integration of VPC, Route table, Security groups, AWS S3 and RDS with EC2 instance.
+3. Installed TortoiseGit on windows machine.
+4. Initiated local Git repository and integrated with GitHub using TortoiseGit.
+5. Updating source code changes to remote repository GitHub from local repository using TortoiseGit.
+6. Installation of Maven and Jenkins tools on windows machine.
+7. Performing build activities using Maven and Jenkins tools.
+8. Automate the build process using Jenkins jobs.
+9. Deploy the application package in Tomcat application server using shell script
+10. Continuous integration of GitHub, Jenkins, Maven using Jenkins job.
+11. Automate the process by triggering Jenkins with source code changes by activating webhooks in GitHub.
+12. Configured AWS Load balancer and Autoscaling Group to make application always available in the web (to avoid server down issues)
+13. DNS and SSL configuration using Route 53 and Certificate Manager
 
 Step-5: Validation
-•	Open Domain name in web
-•	Make changes in GitHub and Check web for Auto-Update
+1. Open Domain name in web
+2. Make changes in GitHub and Check web for Auto-Update
